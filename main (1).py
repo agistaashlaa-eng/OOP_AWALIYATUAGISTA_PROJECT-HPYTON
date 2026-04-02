@@ -1,0 +1,2 @@
+print("Hello, Dcoder!")
+print("haii");print("selamat pagi");print("semangat untuk hari ini");print("semangat belajar");print("jangan lupa sarapan paginya");print("perhatian banget ya? emang");print ("hehehe")
